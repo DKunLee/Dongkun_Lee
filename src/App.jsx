@@ -100,7 +100,7 @@ export default function App() {
         "Developed DREAM, a transformer model predicting next HbA1c values from longitudinal EHR visit histories, medication combinations, and lab values, improving prediction accuracy over clinical baselines.",
         "Built memory-efficient data loaders using Polars and disk caching over 600+ GB of sharded Parquet EHR data, significantly improving GPU throughput during training.",
         "Implemented unsupervised longitudinal clustering across 10,500+ Type 2 Diabetes patients to analyze prescribing patterns of GLP-1 receptor agonists and other therapies.",
-        "Co-authored research findings published in Diabetes, Obesity and Metabolism (Wiley, 2026) and covered by Reuters in November 2024."
+        "Co-authored research findings published in Diabetes, Obesity and Metabolism (Wiley, 2026)."
       ]
     }
   ];
@@ -591,7 +591,7 @@ export default function App() {
             </p>
 
             <p className="text-sm text-zinc-300 mt-2 leading-relaxed">
-              Unsupervised clustering of longitudinal EHR medication histories across 10,500+ Type 2 Diabetes patients from the TriNetX network (over 220 health systems) to discover real-world prescribing trajectories and disparities in GLP-1 receptor agonists and other glucose-lowering drugs. Broader research findings received coverage by <span className="text-white font-medium">Reuters</span>.
+              Unsupervised clustering of longitudinal EHR medication histories across 10,500+ Type 2 Diabetes patients from the TriNetX network (over 220 health systems) to discover real-world prescribing trajectories and disparities in GLP-1 receptor agonists and other glucose-lowering drugs.
             </p>
 
             <div className="mt-3 pt-2.5 border-t border-zinc-850/80 flex flex-wrap items-center gap-3 text-xs font-mono">
