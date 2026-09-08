@@ -215,7 +215,7 @@ export default function App() {
                 M.S. in Computer Science @ University of Maryland (UMD)
               </p>
               <p className="text-xs sm:text-sm text-zinc-400 mt-0.5">
-                B.S. in Data Science, University of Utah (Jan 2023 – May 2026)
+                B.S. in Data Science @ University of Utah (Jan 2023 – May 2026)
               </p>
             </div>
 
